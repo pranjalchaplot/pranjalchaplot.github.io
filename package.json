@@ -1,0 +1,8 @@
+{
+  "name": "resumesite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pranjalchaplot/pranjalchaplot.github.io",
+  "author": "Pranjal Chaplot <pranjalchaplot@gmail.com>",
+  "license": "MIT"
+}
